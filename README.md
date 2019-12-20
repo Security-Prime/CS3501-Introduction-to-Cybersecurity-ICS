@@ -1,4 +1,4 @@
-# CS3501-Introduction-to-Cybersecurity-ICS-
+# CS3501 - Introduction to Cybersecurity (ICS)
 Fir the repository containing the materials for an Introduction to Cybersecurity (ICS) course at the University of Virginia can be viewed online at http://aaronbloomfield.github.io/ics.
 
 Course Objectives
